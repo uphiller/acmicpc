@@ -1,4 +1,6 @@
 
+//https://www.acmicpc.net/problem/1539
+
 let P =[9,1,4,3,2,5,6,7,8,0]
 
     const node = {value:9, left:null, right:null};
