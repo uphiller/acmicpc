@@ -32,7 +32,7 @@ function insert(root, element, height){
   }
 };
 
-for (var i=1; i < 10 ; i++) {
+for (var i=1; i < size ; i++) {
   insert(node, array[i], 2);
 }
 
