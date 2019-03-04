@@ -1,4 +1,5 @@
 //https://www.acmicpc.net/problem/1573
+//abcd, abdc, acbd, adbc, adcb, bacd, badc, cabd, cbad, dabc, dacb, dbac, dcab, dcba
 
 import java.util.*;
  
