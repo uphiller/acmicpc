@@ -1,4 +1,4 @@
-https://www.acmicpc.net/problem/1573
+//https://www.acmicpc.net/problem/1573
 
 var N = 4;
 var index = 9;
